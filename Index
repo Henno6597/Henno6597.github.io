@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Odexus.co</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 1em;
+        }
+        nav {
+            background-color: #34495e;
+            padding: 1em;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .content {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 1em;
+            background-color: #2c3e50;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Odexus.co</h1>
+        <p>Your Innovative Online Space</p>
+    </header>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="content">
+        <h2>Welcome!</h2>
+        <p>This is the new homepage for odexus.co. I built this site to share my ideas, projects, or services. Feel free to explore and let me know what you think!</p>
+        
+        <h3>About This Site</h3>
+        <p>Odexus.co is hosted for free on GitHub Pages, connected through GoDaddy. It’s a simple platform to showcase my work or connect with others. Stay tuned for updates!</p>
+        
+        <h3>Next Steps</h3>
+        <p>I plan to add more pages, images, or features soon. Check back later or contact me to collaborate!</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Odexus.co | All rights reserved</p>
+    </footer>
+</body>
+</html>
